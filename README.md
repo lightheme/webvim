@@ -5,7 +5,7 @@ It's made for windows, but if you want you can reconfigurate it for linux or mac
 <img src="https://i.imgur.com/m3Go3Bp.png">
 
 ## Installation guide
-Just remove all you nvim config, and past this. 
+Just remove all you nvim config, and past this.<br> 
 Install nerdfont, if not installed.
 
 ## Plans
