@@ -22,4 +22,5 @@ Perhaps later...
 - [ ] Babel & Webpack
 - [ ] Docker
 - [ ] AI adding(maybe)
+- [ ] Beautify windows
 - [ ] Final dashboard and vimline update
