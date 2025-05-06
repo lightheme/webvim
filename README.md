@@ -19,8 +19,7 @@ Perhaps later...
 - [x] ESLint
 - [x] prisma highlighting
 - [ ] database view(SQLite, redis, MongoDB, MySQL, Postgres)
-- [ ] Babel
-- [ ] Webpack
+- [ ] Babel & Webpack
 - [ ] Docker
 - [ ] AI adding(maybe)
 - [ ] Final dashboard and vimline update
